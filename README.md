@@ -159,7 +159,7 @@ useEffect(() => {
 
   1 - Clonar o Repositório:
 
-    
+    git clone https://github.com/phablocesarb/ReactNativeFirebase
     cd ReactNativeFirebase
 
   2 - Instalar Dependências:
